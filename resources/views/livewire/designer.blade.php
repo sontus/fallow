@@ -1255,9 +1255,9 @@
         </div>
     </section>
 
-
+    <section class="blog">
     @include('components.layouts.partials.blogs')
-
+    </section>
 
     <section class="skills skills-two">
         <div class="container">

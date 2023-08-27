@@ -1064,7 +1064,7 @@ h3 {
     }
 }
 .banner {
-    background: url(../assets/image/others/banner/Hero.jpg) no-repeat center/cover;
+    background: url("assets/image/others/banner/Hero.jpg") no-repeat center/cover;
     padding-top: 210px;
     padding-bottom: 75px;
 }
@@ -1167,7 +1167,7 @@ h3 {
     }
 }
 .banner-two {
-    background: url(../assets/image/others/banner/banner-bg-two.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/banner-bg-two.png") no-repeat center/cover;
     padding: 180px 0 193px;
 }
 .banner-two .banner-text h1 {
@@ -1184,7 +1184,7 @@ h3 {
     left: 0;
     width: 451px;
     height: 6%;
-    background-image: url(../assets/image/others/victor/banner-vic-two.png);
+    background-image: url("assets/image/others/victor/banner-vic-two.png");
     z-index: -1;
     opacity: 0.66;
 }
@@ -1203,7 +1203,7 @@ h3 {
     color: #47d990;
 }
 .banner-three {
-    background: url(../assets/image/others/banner/banner-three-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/banner-three-bg.png") no-repeat center/cover;
     padding-bottom: 60px;
     padding-top: 187px;
 }
@@ -1220,7 +1220,7 @@ h3 {
     left: 3px;
     width: 450px;
     height: 6%;
-    background-image: url(../assets/image/others/victor/banner-vic.png);
+    background-image: url("assets/image/others/victor/banner-vic.png");
     z-index: -1;
     opacity: 1;
     border-radius: 10px;
@@ -1271,7 +1271,7 @@ h3 {
     color: #daed1a;
 }
 .banner-lawyer {
-    background: url(../assets/image/others/banner/lawyer-b.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/lawyer-b.png") no-repeat center/cover;
     padding: 258px 0 75px;
 }
 .banner-lawyer .banner-lawyer-img img {
@@ -1297,7 +1297,7 @@ h3 {
     left: 274px;
     width: 256px;
     height: 11px;
-    background-image: url(../assets/image/others/victor/Line.png);
+    background-image: url("assets/image/others/victor/Line.png");
     z-index: -1;
     opacity: 1;
 }
@@ -3072,7 +3072,7 @@ h3 {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -3216,7 +3216,7 @@ h3 {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -3357,7 +3357,7 @@ h3 {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -3365,14 +3365,14 @@ h3 {
     padding-bottom: 12px;
 }
 .Project {
-    background: url(../assets/image/others/banner/Project-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Project-bg.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
     z-index: -1;
 }
 .Projec-too {
-    background: url(../assets/image/others/banner/projecr-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/projecr-bg-2.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
@@ -3520,7 +3520,7 @@ h3 {
 }
 .project-4 {
     padding: 120px 0 0;
-    background: url(../assets/image/Project-min.png) no-repeat top center;
+    background: url("assets/image/Project-min.png") no-repeat top center;
     min-height: 840px !important;
 }
 .project-4 .project-section {
@@ -3647,13 +3647,13 @@ h3 {
     background-color: #04091e;
 }
 .accordion-button:not(.collapsed)::after {
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     transform: rotate(-180deg);
 }
 .accordion-button::after {
     width: 13px;
     height: 7px;
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -3694,7 +3694,7 @@ h3 {
     gap: 30px;
 }
 .send .send-item {
-    background: url(../assets/image/others/send.png) no-repeat center/cover;
+    background: url("assets/image/others/send.png") no-repeat center/cover;
     padding: 52px 32px 67px;
 }
 .send .send-item .send-inner {
@@ -3965,7 +3965,7 @@ h3 {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -4150,7 +4150,7 @@ h3 {
     margin-bottom: 30px;
 }
 .blog {
-    background: url(../assets/image/others/banner/Bolg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Bolg.png") no-repeat center/cover;
     padding: 105px 0 120px;
 }
 .blog .blog-head {
@@ -4562,7 +4562,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -4593,7 +4593,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -4618,7 +4618,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -4646,7 +4646,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -6231,7 +6231,7 @@ h3 {
     }
 }
 .banner {
-    background: url(../assets/image/others/banner/Hero.jpg) no-repeat center/cover;
+    background: url("assets/image/others/banner/Hero.jpg") no-repeat center/cover;
     padding-top: 210px;
     padding-bottom: 75px;
 }
@@ -6334,7 +6334,7 @@ h3 {
     }
 }
 .banner-two {
-    background: url(../assets/image/others/banner/banner-bg-two.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/banner-bg-two.png") no-repeat center/cover;
     padding: 180px 0 193px;
 }
 .banner-two .banner-text h1 {
@@ -6351,7 +6351,7 @@ h3 {
     left: 0;
     width: 451px;
     height: 6%;
-    background-image: url(../assets/image/others/victor/banner-vic-two.png);
+    background-image: url("assets/image/others/victor/banner-vic-two.png");
     z-index: -1;
     opacity: 0.66;
 }
@@ -6370,7 +6370,7 @@ h3 {
     color: #47d990;
 }
 .banner-three {
-    background: url(../assets/image/others/banner/banner-three-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/banner-three-bg.png") no-repeat center/cover;
     padding-bottom: 60px;
     padding-top: 187px;
 }
@@ -6387,7 +6387,7 @@ h3 {
     left: 3px;
     width: 450px;
     height: 6%;
-    background-image: url(../assets/image/others/victor/banner-vic.png);
+    background-image: url("assets/image/others/victor/banner-vic.png");
     z-index: -1;
     opacity: 1;
     border-radius: 10px;
@@ -6438,7 +6438,7 @@ h3 {
     color: #daed1a;
 }
 .banner-lawyer {
-    background: url(../assets/image/others/banner/lawyer-b.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/lawyer-b.png") no-repeat center/cover;
     padding: 258px 0 75px;
 }
 .banner-lawyer .banner-lawyer-img img {
@@ -6464,7 +6464,7 @@ h3 {
     left: 274px;
     width: 256px;
     height: 11px;
-    background-image: url(../assets/image/others/victor/Line.png);
+    background-image: url("assets/image/others/victor/Line.png");
     z-index: -1;
     opacity: 1;
 }
@@ -7495,7 +7495,7 @@ h3 {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -7681,7 +7681,7 @@ h3 {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -7825,7 +7825,7 @@ h3 {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -7966,7 +7966,7 @@ h3 {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -8091,14 +8091,14 @@ h3 {
     margin-top: -37px;
 }
 .Project {
-    background: url(../assets/image/others/banner/Project-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Project-bg.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
     z-index: -1;
 }
 .Projec-too {
-    background: url(../assets/image/others/banner/projecr-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/projecr-bg-2.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
@@ -8246,7 +8246,7 @@ h3 {
 }
 .project-4 {
     padding: 120px 0 0;
-    background: url(../assets/image/Project-min.png) no-repeat top center;
+    background: url("assets/image/Project-min.png") no-repeat top center;
     min-height: 840px !important;
 }
 .project-4 .project-section {
@@ -8300,7 +8300,7 @@ h3 {
     padding-top: 21px;
 }
 .blog {
-    background: url(../assets/image/others/banner/Bolg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Bolg.png") no-repeat center/cover;
     padding: 105px 0 120px;
 }
 .blog .blog-head {
@@ -8712,7 +8712,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -8743,7 +8743,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -8768,7 +8768,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -8796,7 +8796,7 @@ h3 {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab ul li {
     padding: 10px 16px;
@@ -8823,7 +8823,7 @@ h3 {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -9138,7 +9138,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -10723,7 +10723,7 @@ h3 {
     }
 }
 .banner {
-    background: url(../assets/image/others/banner/Hero.jpg) no-repeat center/cover;
+    background: url("assets/image/others/banner/Hero.jpg") no-repeat center/cover;
     padding-top: 210px;
     padding-bottom: 75px;
 }
@@ -10826,7 +10826,7 @@ h3 {
     }
 }
 .banner-two {
-    background: url(../assets/image/others/banner/banner-bg-two.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/banner-bg-two.png") no-repeat center/cover;
     padding: 180px 0 193px;
 }
 .banner-two .banner-text h1 {
@@ -10843,7 +10843,7 @@ h3 {
     left: 0;
     width: 451px;
     height: 6%;
-    background-image: url(../assets/image/others/victor/banner-vic-two.png);
+    background-image: url("assets/image/others/victor/banner-vic-two.png");
     z-index: -1;
     opacity: 0.66;
 }
@@ -10862,7 +10862,7 @@ h3 {
     color: #47d990;
 }
 .banner-three {
-    background: url(../assets/image/others/banner/banner-three-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/banner-three-bg.png") no-repeat center/cover;
     padding-bottom: 60px;
     padding-top: 187px;
 }
@@ -10879,7 +10879,7 @@ h3 {
     left: 3px;
     width: 450px;
     height: 6%;
-    background-image: url(../assets/image/others/victor/banner-vic.png);
+    background-image: url("assets/image/others/victor/banner-vic.png");
     z-index: -1;
     opacity: 1;
     border-radius: 10px;
@@ -10930,7 +10930,7 @@ h3 {
     color: #daed1a;
 }
 .banner-lawyer {
-    background: url(../assets/image/others/banner/lawyer-b.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/lawyer-b.png") no-repeat center/cover;
     padding: 258px 0 75px;
 }
 .banner-lawyer .banner-lawyer-img img {
@@ -10956,7 +10956,7 @@ h3 {
     left: 274px;
     width: 256px;
     height: 11px;
-    background-image: url(../assets/image/others/victor/Line.png);
+    background-image: url("assets/image/others/victor/Line.png");
     z-index: -1;
     opacity: 1;
 }
@@ -11233,7 +11233,7 @@ h3 {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab .shaf-filter .course-filter li .active {
     background: #47d990;
@@ -11272,7 +11272,7 @@ h3 {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -11785,7 +11785,7 @@ h3 {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab ul li {
     padding: 10px 16px;
@@ -11812,7 +11812,7 @@ h3 {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -12844,7 +12844,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -13970,7 +13970,7 @@ p {
     }
 }
 .student {
-    background: url(../assets/image/student.png);
+    background: url("assets/image/student.png");
     padding: 110px 0 120px;
 }
 .student .student-heading {
@@ -14042,7 +14042,7 @@ p {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -14186,7 +14186,7 @@ p {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -14327,7 +14327,7 @@ p {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -14344,7 +14344,7 @@ p {
     padding: 120px 0;
 }
 .thought-3 {
-    padding: 135px 0 120px;
+    padding: 135px 0 120px;q
 }
 .thought-three {
     padding: 120px 0;
@@ -14408,13 +14408,13 @@ p {
     background-color: #04091e;
 }
 .accordion-button:not(.collapsed)::after {
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     transform: rotate(-180deg);
 }
 .accordion-button::after {
     width: 13px;
     height: 7px;
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -14455,7 +14455,7 @@ p {
     gap: 30px;
 }
 .send .send-item {
-    background: url(../assets/image/others/send.png) no-repeat center/cover;
+    background: url("assets/image/others/send.png") no-repeat center/cover;
     padding: 52px 32px 67px;
 }
 .send .send-item .send-inner {
@@ -15234,7 +15234,7 @@ p {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -15265,7 +15265,7 @@ p {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -16047,14 +16047,14 @@ p {
     font-size: 18px;
 }
 .Project {
-    background: url(../assets/image/others/banner/Project-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Project-bg.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
     z-index: -1;
 }
 .Projec-too {
-    background: url(../assets/image/others/banner/projecr-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/projecr-bg-2.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
@@ -16202,7 +16202,7 @@ p {
 }
 .project-4 {
     padding: 120px 0 0;
-    background: url(../assets/image/Project-min.png) no-repeat top center;
+    background: url("assets/image/Project-min.png") no-repeat top center;
     min-height: 840px !important;
 }
 .project-4 .project-section {
@@ -17155,7 +17155,7 @@ p {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -17341,7 +17341,7 @@ p {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -17372,7 +17372,7 @@ p {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -17397,7 +17397,7 @@ p {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -17425,7 +17425,7 @@ p {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -18586,7 +18586,7 @@ p {
     display: block;
 }
 .student {
-    background: url(../assets/image/student.png);
+    background: url("assets/image/student.png");
     padding: 110px 0 120px;
 }
 .student .student-heading {
@@ -18658,7 +18658,7 @@ p {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -18802,7 +18802,7 @@ p {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -18943,7 +18943,7 @@ p {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -19024,13 +19024,13 @@ p {
     background-color: #04091e;
 }
 .accordion-button:not(.collapsed)::after {
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     transform: rotate(-180deg);
 }
 .accordion-button::after {
     width: 13px;
     height: 7px;
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -19071,7 +19071,7 @@ p {
     gap: 30px;
 }
 .send .send-item {
-    background: url(../assets/image/others/send.png) no-repeat center/cover;
+    background: url("assets/image/others/send.png") no-repeat center/cover;
     padding: 52px 32px 67px;
 }
 .send .send-item .send-inner {
@@ -19850,7 +19850,7 @@ p {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -19881,7 +19881,7 @@ p {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -20663,14 +20663,14 @@ p {
     font-size: 18px;
 }
 .Project {
-    background: url(../assets/image/others/banner/Project-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Project-bg.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
     z-index: -1;
 }
 .Projec-too {
-    background: url(../assets/image/others/banner/projecr-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/projecr-bg-2.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
@@ -20818,7 +20818,7 @@ p {
 }
 .project-4 {
     padding: 120px 0 0;
-    background: url(../assets/image/Project-min.png) no-repeat top center;
+    background: url("assets/image/Project-min.png") no-repeat top center;
     min-height: 840px !important;
 }
 .project-4 .project-section {
@@ -20929,7 +20929,7 @@ p {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab .shaf-filter .course-filter li .active {
     background: #47d990;
@@ -20968,7 +20968,7 @@ p {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -22155,7 +22155,7 @@ p {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -22341,7 +22341,7 @@ p {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -22372,7 +22372,7 @@ p {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -22397,7 +22397,7 @@ p {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -22425,7 +22425,7 @@ p {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -23586,7 +23586,7 @@ p {
     display: block;
 }
 .student {
-    background: url(../assets/image/student.png);
+    background: url("assets/image/student.png");
     padding: 110px 0 120px;
 }
 .student .student-heading {
@@ -23658,7 +23658,7 @@ p {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -23802,7 +23802,7 @@ p {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -23943,7 +23943,7 @@ p {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -24024,13 +24024,13 @@ p {
     background-color: #04091e;
 }
 .accordion-button:not(.collapsed)::after {
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     transform: rotate(-180deg);
 }
 .accordion-button::after {
     width: 13px;
     height: 7px;
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -24071,7 +24071,7 @@ p {
     gap: 30px;
 }
 .send .send-item {
-    background: url(../assets/image/others/send.png) no-repeat center/cover;
+    background: url("assets/image/others/send.png") no-repeat center/cover;
     padding: 52px 32px 67px;
 }
 .send .send-item .send-inner {
@@ -24850,7 +24850,7 @@ p {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -24881,7 +24881,7 @@ p {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -25664,7 +25664,7 @@ p {
 }
 .testmonials {
     padding: 110px 0 117px;
-    background: url(../assets/image/others/banner/Testmonials-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Testmonials-bg.png") no-repeat center/cover;
 }
 .testmonials-head {
     text-align: center;
@@ -25835,14 +25835,14 @@ p {
     color: #747681;
 }
 .Project {
-    background: url(../assets/image/others/banner/Project-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Project-bg.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
     z-index: -1;
 }
 .Projec-too {
-    background: url(../assets/image/others/banner/projecr-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/projecr-bg-2.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
@@ -25990,7 +25990,7 @@ p {
 }
 .project-4 {
     padding: 120px 0 0;
-    background: url(../assets/image/Project-min.png) no-repeat top center;
+    background: url("assets/image/Project-min.png") no-repeat top center;
     min-height: 840px !important;
 }
 .project-4 .project-section {
@@ -26101,7 +26101,7 @@ p {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab .shaf-filter .course-filter li .active {
     background: #47d990;
@@ -26140,7 +26140,7 @@ p {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -27327,7 +27327,7 @@ p {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -27513,7 +27513,7 @@ p {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -27544,7 +27544,7 @@ p {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -27569,7 +27569,7 @@ p {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -27597,7 +27597,7 @@ p {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -29146,7 +29146,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -29177,7 +29177,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -30201,14 +30201,14 @@ h3 {
     color: #ff3f00;
 }
 .Project {
-    background: url(../assets/image/others/banner/Project-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Project-bg.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
     z-index: -1;
 }
 .Projec-too {
-    background: url(../assets/image/others/banner/projecr-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/projecr-bg-2.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
@@ -30356,7 +30356,7 @@ h3 {
 }
 .project-4 {
     padding: 120px 0 0;
-    background: url(../assets/image/Project-min.png) no-repeat top center;
+    background: url("assets/image/Project-min.png") no-repeat top center;
     min-height: 840px !important;
 }
 .project-4 .project-section {
@@ -30411,7 +30411,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -30442,7 +30442,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -30467,7 +30467,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -30495,7 +30495,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -32213,7 +32213,7 @@ h3 {
     line-height: 152%;
 }
 .query-img {
-    background: url(../assets/image/others/banner/query-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -32232,7 +32232,7 @@ h3 {
     background-color: rgba(255, 255, 255, 0.1);
 }
 .query-img-two {
-    background: url(../assets/image/others/banner/query-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg-2.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -32471,7 +32471,7 @@ h3 {
     padding-bottom: 10px;
 }
 .service-query .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -32489,7 +32489,7 @@ h3 {
     color: #fff;
 }
 .service-query-3 .service-query-section {
-    background: url(../assets/image/others/service-query-3.png) no-repeat center/cover;
+    background: url("assets/image/others/service-query-3.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -32639,7 +32639,7 @@ h3 {
     padding-bottom: 10px;
 }
 .service-details-4 .service-query-2 .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -32724,7 +32724,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -32755,7 +32755,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -32780,7 +32780,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -32808,7 +32808,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -34357,7 +34357,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -34388,7 +34388,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -35413,7 +35413,7 @@ h3 {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -35557,7 +35557,7 @@ h3 {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -35698,7 +35698,7 @@ h3 {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -35707,7 +35707,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -35738,7 +35738,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -35763,7 +35763,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -35791,7 +35791,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -37340,7 +37340,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -37371,7 +37371,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -39052,7 +39052,7 @@ h3 {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -39238,7 +39238,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -39269,7 +39269,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -39294,7 +39294,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -39322,7 +39322,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -40871,7 +40871,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -40902,7 +40902,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -41085,7 +41085,7 @@ h3 {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab .shaf-filter .course-filter li .active {
     background: #47d990;
@@ -41124,7 +41124,7 @@ h3 {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -42967,7 +42967,7 @@ h3 {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -43153,7 +43153,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -43184,7 +43184,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -43209,7 +43209,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -43237,7 +43237,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -44872,7 +44872,7 @@ p {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -44903,7 +44903,7 @@ p {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -45086,7 +45086,7 @@ p {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab .shaf-filter .course-filter li .active {
     background: #47d990;
@@ -45125,7 +45125,7 @@ p {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -47136,7 +47136,7 @@ p {
     line-height: 152%;
 }
 .query-img {
-    background: url(../assets/image/others/banner/query-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -47155,7 +47155,7 @@ p {
     background-color: rgba(255, 255, 255, 0.1);
 }
 .query-img-two {
-    background: url(../assets/image/others/banner/query-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg-2.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -47394,7 +47394,7 @@ p {
     padding-bottom: 10px;
 }
 .service-query .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -47412,7 +47412,7 @@ p {
     color: #fff;
 }
 .service-query-3 .service-query-section {
-    background: url(../assets/image/others/service-query-3.png) no-repeat center/cover;
+    background: url("assets/image/others/service-query-3.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -47562,7 +47562,7 @@ p {
     padding-bottom: 10px;
 }
 .service-details-4 .service-query-2 .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -47647,7 +47647,7 @@ p {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -47833,7 +47833,7 @@ p {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -47864,7 +47864,7 @@ p {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -47889,7 +47889,7 @@ p {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -47917,7 +47917,7 @@ p {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -49552,7 +49552,7 @@ p {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -49583,7 +49583,7 @@ p {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -49766,7 +49766,7 @@ p {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab .shaf-filter .course-filter li .active {
     background: #47d990;
@@ -49805,7 +49805,7 @@ p {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -51816,7 +51816,7 @@ p {
     line-height: 152%;
 }
 .query-img {
-    background: url(../assets/image/others/banner/query-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -51835,7 +51835,7 @@ p {
     background-color: rgba(255, 255, 255, 0.1);
 }
 .query-img-two {
-    background: url(../assets/image/others/banner/query-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg-2.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -52074,7 +52074,7 @@ p {
     padding-bottom: 10px;
 }
 .service-query .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -52092,7 +52092,7 @@ p {
     color: #fff;
 }
 .service-query-3 .service-query-section {
-    background: url(../assets/image/others/service-query-3.png) no-repeat center/cover;
+    background: url("assets/image/others/service-query-3.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -52242,7 +52242,7 @@ p {
     padding-bottom: 10px;
 }
 .service-details-4 .service-query-2 .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -52327,7 +52327,7 @@ p {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -52513,7 +52513,7 @@ p {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -52544,7 +52544,7 @@ p {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -52569,7 +52569,7 @@ p {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -52597,7 +52597,7 @@ p {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -54232,7 +54232,7 @@ p {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -54263,7 +54263,7 @@ p {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -54446,7 +54446,7 @@ p {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab .shaf-filter .course-filter li .active {
     background: #47d990;
@@ -54485,7 +54485,7 @@ p {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -56496,7 +56496,7 @@ p {
     line-height: 152%;
 }
 .query-img {
-    background: url(../assets/image/others/banner/query-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -56515,7 +56515,7 @@ p {
     background-color: rgba(255, 255, 255, 0.1);
 }
 .query-img-two {
-    background: url(../assets/image/others/banner/query-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg-2.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -56754,7 +56754,7 @@ p {
     padding-bottom: 10px;
 }
 .service-query .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -56772,7 +56772,7 @@ p {
     color: #fff;
 }
 .service-query-3 .service-query-section {
-    background: url(../assets/image/others/service-query-3.png) no-repeat center/cover;
+    background: url("assets/image/others/service-query-3.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -56922,7 +56922,7 @@ p {
     padding-bottom: 10px;
 }
 .service-details-4 .service-query-2 .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -57007,7 +57007,7 @@ p {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -57193,7 +57193,7 @@ p {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -57224,7 +57224,7 @@ p {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -57249,7 +57249,7 @@ p {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -57277,7 +57277,7 @@ p {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -58912,7 +58912,7 @@ p {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -58943,7 +58943,7 @@ p {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -59126,7 +59126,7 @@ p {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab .shaf-filter .course-filter li .active {
     background: #47d990;
@@ -59165,7 +59165,7 @@ p {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -61176,7 +61176,7 @@ p {
     line-height: 152%;
 }
 .query-img {
-    background: url(../assets/image/others/banner/query-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -61195,7 +61195,7 @@ p {
     background-color: rgba(255, 255, 255, 0.1);
 }
 .query-img-two {
-    background: url(../assets/image/others/banner/query-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg-2.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -61434,7 +61434,7 @@ p {
     padding-bottom: 10px;
 }
 .service-query .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -61452,7 +61452,7 @@ p {
     color: #fff;
 }
 .service-query-3 .service-query-section {
-    background: url(../assets/image/others/service-query-3.png) no-repeat center/cover;
+    background: url("assets/image/others/service-query-3.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -61602,7 +61602,7 @@ p {
     padding-bottom: 10px;
 }
 .service-details-4 .service-query-2 .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -61687,7 +61687,7 @@ p {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -61873,7 +61873,7 @@ p {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -61904,7 +61904,7 @@ p {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -61929,7 +61929,7 @@ p {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -61957,7 +61957,7 @@ p {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -63506,7 +63506,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -63537,7 +63537,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -64562,7 +64562,7 @@ h3 {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -64706,7 +64706,7 @@ h3 {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -64847,7 +64847,7 @@ h3 {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -64856,7 +64856,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -64887,7 +64887,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -64912,7 +64912,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -64940,7 +64940,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -66489,7 +66489,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -66520,7 +66520,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -67544,14 +67544,14 @@ h3 {
     color: #ff3f00;
 }
 .Project {
-    background: url(../assets/image/others/banner/Project-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Project-bg.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
     z-index: -1;
 }
 .Projec-too {
-    background: url(../assets/image/others/banner/projecr-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/projecr-bg-2.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
@@ -67699,7 +67699,7 @@ h3 {
 }
 .project-4 {
     padding: 120px 0 0;
-    background: url(../assets/image/Project-min.png) no-repeat top center;
+    background: url("assets/image/Project-min.png") no-repeat top center;
     min-height: 840px !important;
 }
 .project-4 .project-section {
@@ -67754,7 +67754,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -67785,7 +67785,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -67810,7 +67810,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -67838,7 +67838,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -69387,7 +69387,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -69418,7 +69418,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -69544,7 +69544,7 @@ h3 {
     color: #fff !important;
 }
 .h-1-blog {
-    background: url(../assets/image/others/banner/h-1-blog-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/h-1-blog-bg.png") no-repeat center/cover;
     padding: 105px 0 120px;
 }
 .h-1-blog .b-h-1-mt {
@@ -69865,7 +69865,7 @@ h3 {
     color: #fdeaee;
 }
 .blog {
-    background: url(../assets/image/others/banner/Bolg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Bolg.png") no-repeat center/cover;
     padding: 105px 0 120px;
 }
 .blog .blog-head {
@@ -70277,7 +70277,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -70308,7 +70308,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -70333,7 +70333,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -70361,7 +70361,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -71910,7 +71910,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -71941,7 +71941,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -72067,7 +72067,7 @@ h3 {
     color: #fff !important;
 }
 .h-1-blog {
-    background: url(../assets/image/others/banner/h-1-blog-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/h-1-blog-bg.png") no-repeat center/cover;
     padding: 105px 0 120px;
 }
 .h-1-blog .b-h-1-mt {
@@ -72388,7 +72388,7 @@ h3 {
     color: #fdeaee;
 }
 .blog {
-    background: url(../assets/image/others/banner/Bolg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Bolg.png") no-repeat center/cover;
     padding: 105px 0 120px;
 }
 .blog .blog-head {
@@ -72800,7 +72800,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -72831,7 +72831,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -72856,7 +72856,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -72884,7 +72884,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -74433,7 +74433,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -74464,7 +74464,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -74759,7 +74759,7 @@ h3 {
     line-height: 152%;
 }
 .query-img {
-    background: url(../assets/image/others/banner/query-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -74778,7 +74778,7 @@ h3 {
     background-color: rgba(255, 255, 255, 0.1);
 }
 .query-img-two {
-    background: url(../assets/image/others/banner/query-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg-2.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -75017,7 +75017,7 @@ h3 {
     padding-bottom: 10px;
 }
 .service-query .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -75035,7 +75035,7 @@ h3 {
     color: #fff;
 }
 .service-query-3 .service-query-section {
-    background: url(../assets/image/others/service-query-3.png) no-repeat center/cover;
+    background: url("assets/image/others/service-query-3.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -75185,7 +75185,7 @@ h3 {
     padding-bottom: 10px;
 }
 .service-details-4 .service-query-2 .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -75383,7 +75383,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -75414,7 +75414,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -75439,7 +75439,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -75467,7 +75467,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -77016,7 +77016,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -77047,7 +77047,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -77174,7 +77174,7 @@ h3 {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -77359,7 +77359,7 @@ h3 {
     margin-bottom: 30px;
 }
 .h-1-blog {
-    background: url(../assets/image/others/banner/h-1-blog-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/h-1-blog-bg.png") no-repeat center/cover;
     padding: 105px 0 120px;
 }
 .h-1-blog .b-h-1-mt {
@@ -77681,7 +77681,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -79230,7 +79230,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -79261,7 +79261,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -79453,7 +79453,7 @@ h3 {
     color: #747681;
 }
 .protfolio-detalis-middel-img {
-    background: url(../assets/image/others/p-d-middel.png) no-repeat center/cover;
+    background: url("assets/image/others/p-d-middel.png") no-repeat center/cover;
     padding: 30px 27px 24px 30px;
     margin-top: 14px;
 }
@@ -80421,7 +80421,7 @@ h3 {
     color: #ff3f00;
 }
 .h-1-blog {
-    background: url(../assets/image/others/banner/h-1-blog-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/h-1-blog-bg.png") no-repeat center/cover;
     padding: 105px 0 120px;
 }
 .h-1-blog .b-h-1-mt {
@@ -80743,7 +80743,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -82292,7 +82292,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -82323,7 +82323,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -82594,7 +82594,7 @@ h3 {
     left: 610px;
     width: 151px;
     height: 11px;
-    background-image: url(../assets/image/others/victor/Line-2.png);
+    background-image: url("assets/image/others/victor/Line-2.png");
     z-index: -1;
 }
 .lawyer-team .team-item .team-img {
@@ -82781,7 +82781,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -84330,7 +84330,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -84361,7 +84361,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -84632,7 +84632,7 @@ h3 {
     left: 610px;
     width: 151px;
     height: 11px;
-    background-image: url(../assets/image/others/victor/Line-2.png);
+    background-image: url("assets/image/others/victor/Line-2.png");
     z-index: -1;
 }
 .lawyer-team .team-item .team-img {
@@ -84819,7 +84819,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -86368,7 +86368,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -86399,7 +86399,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -87181,14 +87181,14 @@ h3 {
     font-size: 18px;
 }
 .Project {
-    background: url(../assets/image/others/banner/Project-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Project-bg.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
     z-index: -1;
 }
 .Projec-too {
-    background: url(../assets/image/others/banner/projecr-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/projecr-bg-2.png") no-repeat center/cover;
     width: 100%;
     min-height: 631px;
     position: relative;
@@ -87336,7 +87336,7 @@ h3 {
 }
 .project-4 {
     padding: 120px 0 0;
-    background: url(../assets/image/Project-min.png) no-repeat top center;
+    background: url("assets/image/Project-min.png") no-repeat top center;
     min-height: 840px !important;
 }
 .project-4 .project-section {
@@ -87463,13 +87463,13 @@ h3 {
     background-color: #04091e;
 }
 .accordion-button:not(.collapsed)::after {
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     transform: rotate(-180deg);
 }
 .accordion-button::after {
     width: 13px;
     height: 7px;
-    background-image: url(../assets/image/others/icon/after-icon.png);
+    background-image: url("assets/image/others/icon/after-icon.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -87510,7 +87510,7 @@ h3 {
     gap: 30px;
 }
 .send .send-item {
-    background: url(../assets/image/others/send.png) no-repeat center/cover;
+    background: url("assets/image/others/send.png") no-repeat center/cover;
     padding: 52px 32px 67px;
 }
 .send .send-item .send-inner {
@@ -88089,7 +88089,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -89638,7 +89638,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -89669,7 +89669,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -91350,7 +91350,7 @@ h3 {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -91536,7 +91536,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -91567,7 +91567,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -91592,7 +91592,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -94967,7 +94967,7 @@ p {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -95153,7 +95153,7 @@ p {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -95184,7 +95184,7 @@ p {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -95209,7 +95209,7 @@ p {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -95237,7 +95237,7 @@ p {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -96872,7 +96872,7 @@ p {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -96903,7 +96903,7 @@ p {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -97086,7 +97086,7 @@ p {
 }
 #tab {
     padding: 105px 0 120px;
-    background: url(../assets/image/others/banner/tab-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/tab-bg.png") no-repeat center/cover;
 }
 #tab .shaf-filter .course-filter li .active {
     background: #47d990;
@@ -97125,7 +97125,7 @@ p {
     right: 41px;
     width: 225px;
     height: 10px;
-    background-image: url(../assets/image/others/victor/tab-vic.png);
+    background-image: url("assets/image/others/victor/tab-vic.png");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
@@ -99136,7 +99136,7 @@ p {
     line-height: 152%;
 }
 .query-img {
-    background: url(../assets/image/others/banner/query-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -99155,7 +99155,7 @@ p {
     background-color: rgba(255, 255, 255, 0.1);
 }
 .query-img-two {
-    background: url(../assets/image/others/banner/query-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/query-bg-2.png") no-repeat center/cover;
     padding: 25px 47px 23px 48px;
     border-radius: 18px;
     margin-top: 50px;
@@ -99394,7 +99394,7 @@ p {
     padding-bottom: 10px;
 }
 .service-query .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -99412,7 +99412,7 @@ p {
     color: #fff;
 }
 .service-query-3 .service-query-section {
-    background: url(../assets/image/others/service-query-3.png) no-repeat center/cover;
+    background: url("assets/image/others/service-query-3.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -99562,7 +99562,7 @@ p {
     padding-bottom: 10px;
 }
 .service-details-4 .service-query-2 .service-query-section {
-    background: url(../assets/image/others/teacher-service-d.png) no-repeat center/cover;
+    background: url("assets/image/others/teacher-service-d.png") no-repeat center/cover;
     padding: 43px 63px;
     border-radius: 18px;
 }
@@ -99647,7 +99647,7 @@ p {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -99833,7 +99833,7 @@ p {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -99864,7 +99864,7 @@ p {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -99889,7 +99889,7 @@ p {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -99917,7 +99917,7 @@ p {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -101466,7 +101466,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -101497,7 +101497,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -103178,7 +103178,7 @@ h3 {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -103364,7 +103364,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -103395,7 +103395,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -103420,7 +103420,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -103448,7 +103448,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -104997,7 +104997,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -105028,7 +105028,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -105379,7 +105379,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -105410,7 +105410,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -105435,7 +105435,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -105463,7 +105463,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -107012,7 +107012,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -107043,7 +107043,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -107395,7 +107395,7 @@ h3 {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -107539,7 +107539,7 @@ h3 {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -107680,7 +107680,7 @@ h3 {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -107689,7 +107689,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -107720,7 +107720,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -107745,7 +107745,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -107773,7 +107773,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -109322,7 +109322,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -109353,7 +109353,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -109824,7 +109824,7 @@ h3 {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -109968,7 +109968,7 @@ h3 {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -110109,7 +110109,7 @@ h3 {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -110118,7 +110118,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -110149,7 +110149,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -110174,7 +110174,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -110202,7 +110202,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -111751,7 +111751,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -111782,7 +111782,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -111908,7 +111908,7 @@ h3 {
     color: #fff !important;
 }
 .product-details {
-    background: url(../assets/image/others/banner/Product-details-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-details-bg.png") no-repeat center/cover;
     padding: 120px 0;
 }
 .product-details .slick-dots button {
@@ -112021,7 +112021,7 @@ h3 {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -112165,7 +112165,7 @@ h3 {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -112306,7 +112306,7 @@ h3 {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -112315,7 +112315,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -112346,7 +112346,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -112371,7 +112371,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -112399,7 +112399,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -114847,7 +114847,7 @@ h3 {
 }
 .Product {
     padding: 420px 0 120px;
-    background: url(../assets/image/others/banner/Product-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Product-bg.png") no-repeat center/cover;
     margin-top: -294px;
 }
 .Product-2 {
@@ -115033,7 +115033,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -115064,7 +115064,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -115089,7 +115089,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -115117,7 +115117,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -117565,7 +117565,7 @@ h3 {
 }
 .customers {
     padding: 93px 0 120px;
-    background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-bg.png") no-repeat center/cover;
 }
 .customers .coustomers-text {
     text-align: center;
@@ -117709,7 +117709,7 @@ h3 {
 }
 .customers-two {
     padding: 110px 0 120px;
-    background: url(../assets/image/others/banner/Customer-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Customer-2.png") no-repeat center/cover;
 }
 .customers-two .coustomers-text {
     text-align: center;
@@ -117850,7 +117850,7 @@ h3 {
     width: 14px;
 }
 .customer-4 {
-    background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+   background: url("../assets/image/customer-bg.png") no-repeat center/cover;
     padding: 110px 0 0;
     margin-bottom: -16px;
 }
@@ -117905,7 +117905,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -117936,7 +117936,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -117961,7 +117961,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -117989,7 +117989,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -119556,7 +119556,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -119587,7 +119587,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -119612,7 +119612,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -119640,7 +119640,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);
@@ -121189,7 +121189,7 @@ h3 {
     color: #daed1a;
 }
 .inner-bg {
-    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-head {
@@ -121220,7 +121220,7 @@ h3 {
     color: #04091e;
 }
 .inner-bg-two {
-    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/inner-bg-2.png") no-repeat center/cover;
     padding: 238px 0 116px;
 }
 .inner-bg-two .inner-bg-head {
@@ -121467,7 +121467,7 @@ h3 {
 }
 .skills {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skills-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skills-bg.png") no-repeat center/cover;
 }
 .skills .skill-text h2 {
     font-weight: 700;
@@ -121498,7 +121498,7 @@ h3 {
     transform: translateY(10px);
 }
 .skills-two {
-    background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-two-bg.png") no-repeat center/cover;
 }
 .skills-two .skill-rigght-btn-two .btn-style-1 {
     background-color: #ffd233;
@@ -121523,7 +121523,7 @@ h3 {
 }
 .skills-three {
     padding: 80px 0;
-    background: url(../assets/image/others/banner/skill-3.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/skill-3.png") no-repeat center/cover;
 }
 .skills-three .skill-text h2 {
     font-weight: 700;
@@ -121551,7 +121551,7 @@ h3 {
 }
 footer {
     padding-top: 120px;
-    background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+    background: url("assets/image/others/banner/Footer-bg.png") no-repeat center/cover;
 }
 .footer-logo-item {
     border-right: 1px solid rgba(116, 118, 129, 0.3843137255);

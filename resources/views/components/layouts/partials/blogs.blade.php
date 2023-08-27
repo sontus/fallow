@@ -1,13 +1,13 @@
-<section class="blog">
+
     <div class="container">
         <div class="row ">
             <div class="col-lg-12">
                 <div class="blog-head">
                     <h2>Stay up to Date with
                         our News.</h2>
-                    <div class="blog-vic">
-                        <img src="{{ asset('assets/image/others/victor/blog-vic.png') }}" alt="blog-vic-thumb" />
-                    </div>
+{{--                    <div class="blog-vic">--}}
+{{--                        <img src="{{ asset('assets/image/others/victor/blog-vic.png') }}" alt="blog-vic-thumb" />--}}
+{{--                    </div>--}}
                 </div>
             </div>
         </div>
@@ -94,4 +94,4 @@
             </div>
         </div>
     </div>
-</section>
+
