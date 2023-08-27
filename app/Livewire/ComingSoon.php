@@ -4,10 +4,10 @@ namespace App\Livewire;
 
 use Livewire\Component;
 
-class Achivement extends Component
+class ComingSoon extends Component
 {
     public function render()
     {
-        return view('livewire.achivement');
+        return view('livewire.coming-soon');
     }
 }
