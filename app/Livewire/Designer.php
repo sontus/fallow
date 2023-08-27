@@ -8,6 +8,6 @@ class Designer extends Component
 {
     public function render()
     {
-        return view('livewire.designer');
+        return view('livewire.designer')->title('Home (Designer)');
     }
 }
