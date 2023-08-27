@@ -189,17 +189,17 @@
                             Product Designer</h1>
                         <p>Agency work with top rated talented people provide qulaity services.</p>
                         <div class="banner-vic">
-                            <img src="assets/image/others/victor/banner-vic.png" alt="vic-thumb" />
+                            <img src="{{ asset('assets/image/others/victor/banner-vic.png') }}" alt="vic-thumb" />
                         </div>
                         <div class="banner-vic-1">
-                            <img src="assets/image/others/victor/banner-vic-1.png" alt="vic-thumb" />
+                            <img src="{{ asset('assets/image/others/victor/banner-vic-1.png') }}" alt="vic-thumb" />
                         </div>
                     </div>
                     <div class="banner-btn">
                         <div class="banner-btn-item">
                             <div class="banner-btn-left">
                                 <div class="btn-style-1">
-                                    <a href="countact-me.html">Hire Me<span><svg width="14" height="11"
+                                    <a href="/contact" wire:navigate>Hire Me<span><svg width="14" height="11"
                                                                                  viewBox="0 0 14 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path d="M9 9.5L13 5.5M13 5.5L9 1.5M13 5.5L1 5.5" stroke="white"
                                                           stroke-width="1.5" stroke-linecap="round"
@@ -226,7 +226,7 @@
                     <div class="banner-img">
                         <div class="banner-item">
                             <div class="banner-pos">
-                                <img src="assets/image/others/banner/banner.png" alt="banner-thumb" />
+                                <img src="{{ asset('assets/image/others/banner/banner.png') }}" alt="banner-thumb" />
                             </div>
                         </div>
                     </div>
@@ -243,7 +243,7 @@
                     <div class="about-position-img">
                         <div class="position-img">
                             <div class="about-img">
-                                <img src="assets/image/others/about.png" alt="about-thumb" />
+                                <img src="{{ asset('assets/image/others/about.png') }}" alt="about-thumb" />
                                 <div class="about-overlay">
                                     <div class="icon">
                                         <a href="#"><i class="fa-brands fa-behance"></i></a>
@@ -263,7 +263,7 @@
                             passionate and dedicated to work.With 20 years experience as a professional a graphic
                             designer, It uses a dictionary of over 200 Latin words, combined </p>
                         <div class="about-victor">
-                            <img src="assets/image/others/victor/about-vic.png" alt="vic-thumb" />
+                            <img src="{{ asset('assets/image/others/victor/about-vic.png') }}" alt="vic-thumb" />
                         </div>
                     </div>
                     <div class="proress-item">
@@ -284,7 +284,7 @@
                     </div>
                     <div class="signature">
                         <div class="Signature-img">
-                            <img src="assets/image/others/Signature.png" alt="signature-thumb" />
+                            <img src="{{ asset('assets/image/others/Signature.png') }}" alt="signature-thumb" />
                         </div>
                         <div class="Signature-text">
                             <h5> CEO & Founder of QuomodoSoft</h5>
@@ -304,7 +304,7 @@
                         <h2>Expertise Service!
                             Let’s check it out.</h2>
                         <div class="service-vic">
-                            <img src="assets/image/others/victor/service.png" alt="service-vic" />
+                            <img src="{{ asset('assets/image/others/victor/service.png') }}" alt="service-vic" />
                         </div>
                     </div>
                 </div>
@@ -396,7 +396,7 @@
                                 necessary.</p>
                         </div>
                         <div class="service-btn">
-                            <a href="home-one-service.html">Learn more <span> <i
+                            <a href="/service" wire:navigate>Learn more <span> <i
                                         class="fa-solid fa-arrow-right"></i></span></a>
                         </div>
                     </div>
@@ -457,7 +457,7 @@
                                 necessary.</p>
                         </div>
                         <div class="service-btn">
-                            <a href="home-one-service.html">Learn more <span> <i
+                            <a href="/service" wire:navigate>Learn more <span> <i
                                         class="fa-solid fa-arrow-right"></i></span></a>
                         </div>
                     </div>
@@ -511,7 +511,7 @@
                                 necessary.</p>
                         </div>
                         <div class="service-btn">
-                            <a href="home-one-service.html">Learn more <span> <i
+                            <a href="/service" wire:navigate>Learn more <span> <i
                                         class="fa-solid fa-arrow-right"></i></span></a>
                         </div>
                     </div>
@@ -566,7 +566,7 @@
                                 necessary.</p>
                         </div>
                         <div class="service-btn">
-                            <a href="home-one-service.html">Learn more <span> <i
+                            <a href="/service" wire:navigate>Learn more <span> <i
                                         class="fa-solid fa-arrow-right"></i></span></a>
                         </div>
                     </div>
@@ -586,43 +586,43 @@
                     <div class="customers-item">
                         <div class="customers-inner">
                             <div class="customers-img">
-                                <img src="assets/image/others/Google.png" alt="google" />
+                                <img src="{{ asset('assets/image/others/Google.png') }}" alt="google" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Slack.png" alt="Slack" />
+                                <img src="{{ asset('assets/image/others/Slack.png') }}" alt="Slack" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Amazon.png" alt="Amazon" />
+                                <img src="{{ asset('assets/image/others/Amazon.png') }}" alt="Amazon" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Spotify.png" alt="Spotify" />
+                                <img src="{{ asset('assets/image/others/Spotify.png') }}" alt="Spotify" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Linked.png" alt="Linked" />
+                                <img src="{{ asset('assets/image/others/Linked.png') }}" alt="Linked" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Walmart.png" alt="Walmart" />
+                                <img src="{{ asset('assets/image/others/Walmart.png') }}" alt="Walmart" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Google.png" alt="google" />
+                                <img src="{{ asset('assets/image/others/Google.png') }}" alt="google" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Slack.png" alt="Slack" />
+                                <img src="{{ asset('assets/image/others/Slack.png') }}" alt="Slack" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Amazon.png" alt="Amazon" />
+                                <img src="{{ asset('assets/image/others/Amazon.png') }}" alt="Amazon" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Spotify.png" alt="Spotify" />
+                                <img src="{{ asset('assets/image/others/Spotify.png') }}" alt="Spotify" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Linked.png" alt="Linked" />
+                                <img src="{{ asset('assets/image/others/Linked.png') }}" alt="Linked" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Walmart.png" alt="Walmart" />
+                                <img src="{{ asset('assets/image/others/Walmart.png') }}" alt="Walmart" />
                             </div>
                             <div class="customers-img">
-                                <img src="assets/image/others/Walmart.png" alt="Walmart" />
+                                <img src="{{ asset('assets/image/others/Walmart.png') }}" alt="Walmart" />
                             </div>
                         </div>
                     </div>
@@ -653,7 +653,7 @@
                         <div class="customer-head-inner">
                             <div class="customer-head-innner-df">
                                 <div class="customer-head-inner-img">
-                                    <img src="assets/image/others/Customer-1.png" alt="Customer-thumb" />
+                                    <img src="{{ asset('assets/image/others/Customer-1.png') }}" alt="Customer-thumb" />
                                 </div>
                                 <div class="customer-head-inner-text">
                                     <h4>Guy Hawkins</h4>
@@ -661,7 +661,7 @@
                                 </div>
                             </div>
                             <div class="customer-head-inner-left">
-                                <img src="assets/image/others/Customer-left.png" alt="Customer-thumb" />
+                                <img src="{{ asset('assets/image/others/Customer-left.png') }}" alt="Customer-thumb" />
                             </div>
                         </div>
                     </div>
@@ -682,7 +682,7 @@
                         <div class="customer-head-inner">
                             <div class="customer-head-innner-df">
                                 <div class="customer-head-inner-img">
-                                    <img src="assets/image/others/Customer-2.png" alt="Customer-thumb" />
+                                    <img src="{{ asset('assets/image/others/Customer-2.png') }}" alt="Customer-thumb" />
                                 </div>
                                 <div class="customer-head-inner-text">
                                     <h4>Guy Hawkins</h4>
@@ -690,7 +690,7 @@
                                 </div>
                             </div>
                             <div class="customer-head-inner-left">
-                                <img src="assets/image/others/Customer-left.png" alt="Customer-thumb" />
+                                <img src="{{ asset('assets/image/others/Customer-left.png') }}" alt="Customer-thumb" />
                             </div>
                         </div>
                     </div>
@@ -711,7 +711,7 @@
                         <div class="customer-head-inner">
                             <div class="customer-head-innner-df">
                                 <div class="customer-head-inner-img">
-                                    <img src="assets/image/others/Customer-2.png" alt="Customer-thumb" />
+                                    <img src="{{ asset('assets/image/others/Customer-2.png') }}" alt="Customer-thumb" />
                                 </div>
                                 <div class="customer-head-inner-text">
                                     <h4>Guy Hawkins</h4>
@@ -719,7 +719,7 @@
                                 </div>
                             </div>
                             <div class="customer-head-inner-left">
-                                <img src="assets/image/others/Customer-left.png" alt="Customer-thumb" />
+                                <img src="{{ asset('assets/image/others/Customer-left.png') }}" alt="Customer-thumb" />
                             </div>
                         </div>
                     </div>
@@ -934,7 +934,7 @@
                     <div class="Product-head">
                         <h2>Digital Product Showcase</h2>
                         <div class="Product-vic">
-                            <img src="assets/image/others/victor/Product-vic.png" alt="product-vic-thumb" />
+                            <img src="{{ asset('assets/image/others/victor/Product-vic.png') }}" alt="product-vic-thumb" />
                         </div>
                     </div>
                 </div>
@@ -945,10 +945,10 @@
                     <div class="grid-item coruja">
                         <div class="Product-item mt-pt city1">
                             <div class="Product-img">
-                                <img src="assets/image/others/Product-1.png" alt="Product-thumb">
+                                <img src="{{ asset('assets/image/others/Product-1.png') }}" alt="Product-thumb">
                                 <div class="product-overlay">
                                         <span>
-                                            <a href="product-details.html"> <svg width="40" height="40"
+                                            <a href="/product-details" wire:navigate> <svg width="40" height="40"
                                                                                  viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                                           d="M2.08301 9.99967C2.08301 5.62742 5.62742 2.08301 9.99967 2.08301H13.333C14.0234 2.08301 14.583 2.64265 14.583 3.33301C14.583 4.02336 14.0234 4.58301 13.333 4.58301H9.99967C7.00813 4.58301 4.58301 7.00813 4.58301 9.99967V13.333C4.58301 14.0234 4.02336 14.583 3.33301 14.583C2.64265 14.583 2.08301 14.0234 2.08301 13.333V9.99967ZM25.4163 3.33301C25.4163 2.64265 25.976 2.08301 26.6663 2.08301H29.9997C34.3719 2.08301 37.9163 5.62742 37.9163 9.99967V13.333C37.9163 14.0234 37.3567 14.583 36.6663 14.583C35.976 14.583 35.4163 14.0234 35.4163 13.333V9.99967C35.4163 7.00813 32.9912 4.58301 29.9997 4.58301H26.6663C25.976 4.58301 25.4163 4.02336 25.4163 3.33301ZM3.33301 25.4163C4.02336 25.4163 4.58301 25.976 4.58301 26.6663V29.9997C4.58301 32.9912 7.00813 35.4163 9.99967 35.4163H13.333C14.0234 35.4163 14.583 35.976 14.583 36.6663C14.583 37.3567 14.0234 37.9163 13.333 37.9163H9.99967C5.62742 37.9163 2.08301 34.3719 2.08301 29.9997V26.6663C2.08301 25.976 2.64265 25.4163 3.33301 25.4163ZM36.6663 25.4163C37.3567 25.4163 37.9163 25.976 37.9163 26.6663V29.9997C37.9163 34.3719 34.3719 37.9163 29.9997 37.9163H26.6663C25.976 37.9163 25.4163 37.3567 25.4163 36.6663C25.4163 35.976 25.976 35.4163 26.6663 35.4163H29.9997C32.9912 35.4163 35.4163 32.9912 35.4163 29.9997V26.6663C35.4163 25.976 35.976 25.4163 36.6663 25.4163Z"
@@ -968,10 +968,10 @@
                     <div class="grid-item">
                         <div class="Product-item mt-pt">
                             <div class="Product-img">
-                                <img src="assets/image/others/Product-2.png" alt="Product-thumb">
+                                <img src="{{ asset('assets/image/others/Product-2.png') }}" alt="Product-thumb">
                                 <div class="product-overlay">
                                         <span>
-                                            <a href="product-details.html">
+                                            <a href="/product-details" wire:navigate>
                                                 <svg width="40" height="40" viewBox="0 0 40 40" fill="none"
                                                      xmlns="http://www.w3.org/2000/svg">
                                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -993,10 +993,10 @@
                     <div class="grid-item">
                         <div class="Product-item mt-pt">
                             <div class="Product-img">
-                                <img src="assets/image/others/Product-3.png" alt="Product-thumb">
+                                <img src="{{ asset('assets/image/others/Product-3.png') }}" alt="Product-thumb">
                                 <div class="product-overlay">
                                         <span>
-                                            <a href="product-details.html">
+                                            <a href="/product-details" wire:navigate>
                                                 <svg width="40" height="40" viewBox="0 0 40 40" fill="none"
                                                      xmlns="http://www.w3.org/2000/svg">
                                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1018,10 +1018,10 @@
                     <div class="grid-item">
                         <div class="Product-item mt-pt">
                             <div class="Product-img">
-                                <img src="assets/image/others/Product-4.html" alt="Product-thumb">
+                                <img src="{{ asset('assets/image/others/Product-4') }}" wire:navigate alt="Product-thumb">
                                 <div class="product-overlay">
                                         <span>
-                                            <a href="product-details.html">
+                                            <a href="/product-details" wire:navigate>
                                                 <svg width="40" height="40" viewBox="0 0 40 40" fill="none"
                                                      xmlns="http://www.w3.org/2000/svg">
                                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1043,7 +1043,7 @@
                     <div class="grid-item">
                         <div class="Product-item  mt-pt">
                             <div class="Product-img">
-                                <img src="assets/image/others/Product-6.png" alt="Product-thumb">
+                                <img src="{{ asset('assets/image/others/Product-6.png') }}" alt="Product-thumb">
                                 <div class="product-overlay">
                                         <span>
                                             <svg width="40" height="40" viewBox="0 0 40 40" fill="none"
@@ -1066,10 +1066,10 @@
                     <div class="grid-item  mt-pt">
                         <div class="Product-item">
                             <div class="Product-img">
-                                <img src="assets/image/others/Product-5.png" alt="Product-thumb">
+                                <img src="{{ asset('assets/image/others/Product-5.png') }}" alt="Product-thumb">
                                 <div class="product-overlay">
                                         <span>
-                                            <a href="product-details.html">
+                                            <a href="/product-details" wire:navigate>
                                                 <svg width="40" height="40" viewBox="0 0 40 40" fill="none"
                                                      xmlns="http://www.w3.org/2000/svg">
                                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -1106,7 +1106,7 @@
                     <div class="thought-text">
                         <h2>Have any Thought Find here.</h2>
                         <div class="thought-vic">
-                            <img src="assets/image/others/victor/thought-vic.png" alt="thought-thumb" />
+                            <img src="{{ asset('assets/image/others/victor/thought-vic.png') }}" alt="thought-thumb" />
                         </div>
                     </div>
                     <div class="faq">
@@ -1228,7 +1228,7 @@
                         <h2>Stay up to Date with
                             our News.</h2>
                         <div class="blog-vic">
-                            <img src="assets/image/others/victor/blog-vic.png" alt="blog-vic-thumb" />
+                            <img src="{{ asset('assets/image/others/victor/blog-vic.png') }}" alt="blog-vic-thumb" />
                         </div>
                     </div>
                 </div>
@@ -1237,7 +1237,7 @@
                 <div class="col-lg-4 blog-p">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="assets/image/others/blog-1.png" alt="blog-thumb">
+                            <img src="{{ asset('assets/image/others/blog-1.png') }}" alt="blog-thumb">
                         </div>
                         <div class="blog-inner">
                             <div class="blog-inner-btn">
@@ -1245,7 +1245,7 @@
                                 <a href="#">Marketing</a>
                             </div>
                             <div class="blog-inner-text">
-                                <a href="home-1blog-detalis.html">The highly Creative UI/UX Workflow from a Silicon
+                                <a href=/blog-details" wire:navigate>The highly Creative UI/UX Workflow from a Silicon
                                     Valley.</a>
                             </div>
                             <div class="blog-btn">
@@ -1257,7 +1257,7 @@
                 <div class="col-lg-4 blog-p">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="assets/image/others/blog-2.png" alt="blog-thumb" />
+                            <img src="{{ asset('assets/image/others/blog-2.png') }}" alt="blog-thumb" />
                         </div>
                         <div class="blog-inner">
                             <div class="blog-inner-btn">
@@ -1265,7 +1265,7 @@
                                 <a href="#">Marketing</a>
                             </div>
                             <div class="blog-inner-text">
-                                <a href="home-1blog-detalis.html">Creativo para jóvenes: a Designer’s UI/UX complete
+                                <a href="/blog-details" wire:navigate>Creativo para jóvenes: a Designer’s UI/UX complete
                                     checklist.</a>
                             </div>
                             <div class="blog-btn">
@@ -1277,7 +1277,7 @@
                 <div class="col-lg-4 blog-p">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="assets/image/others/blog-3.png" alt="blog-thumb" />
+                            <img src="{{ asset('assets/image/others/blog-1.png') }}" alt="blog-thumb" />
                         </div>
                         <div class="blog-inner">
                             <div class="blog-inner-btn">
@@ -1285,7 +1285,7 @@
                                 <a href="#">Marketing</a>
                             </div>
                             <div class="blog-inner-text">
-                                <a href="home-1blog-detalis.html">Definitive guide to make a Daily more Productive
+                                <a href=/blog-details" wire:navigate >Definitive guide to make a Daily more Productive
                                     Working flow.</a>
                             </div>
                             <div class="blog-btn">
@@ -1297,7 +1297,7 @@
                 <div class="col-lg-4 blog-p">
                     <div class="blog-item">
                         <div class="blog-img">
-                            <img src="assets/image/others/blog-1.png" alt="blog-thumb" />
+                            <img src="{{ asset('assets/image/others/blog-1.png') }}" alt="blog-thumb" />
                         </div>
                         <div class="blog-inner">
                             <div class="blog-inner-btn">
@@ -1305,7 +1305,7 @@
                                 <a href="#">Marketing</a>
                             </div>
                             <div class="blog-inner-text">
-                                <a href="home-1blog-detalis.html">Definitive guide to make a Daily more Productive
+                                <a href="/blog-details" wire:navigate>Definitive guide to make a Daily more Productive
                                     Working flow.</a>
                             </div>
                             <div class="blog-btn">
